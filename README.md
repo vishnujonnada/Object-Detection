@@ -69,7 +69,7 @@ The project leverages a combination of technologies to deliver its functionality
 ### Screenshots
 
 #### Home Page
-![Home Page](output/homepage.png)
+![Home Page](output/home.png)
 
 #### Object Detection Enabled
 ![Object Detection Enabled](output/objectdetection.png)
